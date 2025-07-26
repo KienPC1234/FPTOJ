@@ -2,7 +2,7 @@
 
 As a fork of [DMOJ](https://github.com/DMOJ/online-judge), VNOJ serves as [VNOI](https://team.vnoi.info/)'s official online judge and hosts its programming contests.
 
-See it live at [oj.vnoi.info](https://oj.vnoi.info/)!
+See it live at [fptoj.com](https://fptoj.com/)!
 
 ## Features
 
